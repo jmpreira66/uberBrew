@@ -3,5 +3,5 @@ After downloading the files, please run the npm start command on the directory w
 
   C:\Users\jmpre\uberbrew-app>npm start
   
-  That's all you would need.
+  That's all you would need. Please let me know if you encounter any issue.
   Thank you!
